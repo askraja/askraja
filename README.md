@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @askraja
 - 👀 I’m interested in a lot things that teaches me something new everyday!
-- 🌱 I’m currently learning everything abotu distributed memory caching and virtualization resource performance
+- 🌱 I’m currently learning everything about distributed memory caching and virtualization resource performance
 - 💞️ I’m looking to collaborate on resource disaggregation and capacity resilience and redundancy!
 
 
